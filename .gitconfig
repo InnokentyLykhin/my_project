@@ -1,0 +1,8 @@
+[user]
+	email = i.lykhin@yandex.ru
+	name = InnokentyLykhin
+[alias]
+	history = log --graph
+	st = status
+	co = checkout
+	ci = commit 
